@@ -1,0 +1,16 @@
+{
+  "name": "Html5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "http://karloEspanol/.github.io/myfirstwebapp",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
